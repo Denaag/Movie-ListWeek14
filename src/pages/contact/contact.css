@@ -1,0 +1,8 @@
+.form-container{
+  margin: 0 25%;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.back-button{
+    position: absolute;
+    right: 20px;
+}
